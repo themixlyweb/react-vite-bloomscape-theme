@@ -1,0 +1,1 @@
+Place original theme images (logo.png, hero.jpg, service1.jpg..service4.jpg, project1.jpg..project6.jpg) and fonts (EvergreenSans-Regular.woff2) in this folder.

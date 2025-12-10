@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&family=Inter:wght@400;500;600&display=swap');
+
+
+@font-face {
+  font-family: 'EvergreenSans';
+  src: url('/assets/fonts/EvergreenSans-Regular.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+:root {
+  --brand: #2f7a4a;
+}
+
+html, body, #root { height: 100%; }
+
+.custom-arch {
+  clip-path: polygon(0 15%, 50% 0, 100% 15%, 100% 100%, 0 100%);
+}
+
