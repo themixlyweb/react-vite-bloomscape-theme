@@ -3,10 +3,10 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <meta name="description" content="A Morden, one-page React 19+ template for bakeries, cookie shops, and dessert cafés — sweet, minimal, and fully responsive." />
-  <meta name="keywords" content="Crumbella React template, cookie shop website template, bakery React theme, dessert café React template, one-page React template, bakery website design, patisserie online store template, café React template, dessert brand website, React 19+ template" />
+  <meta name="description" content="BloomScape is a multi-page React template for garden services, landscapers, and plant nurseries. It features a clean, fast, and responsive design built with React 18+ and Tailwind CSS." />
+  <meta name="keywords" content="garden-website-template,landscape-design-template,plant-nursery-website-template,lawn-care-website-template,gardening-react-theme,garden-services-website-template,lawn-mowing-website-template,irrigation-service-templateplant-shop-website-template,garden-business-website-template, React 19+ template" />
   <meta name="author" content="Themixly Web" />
-  <link rel="canonical" href="https://themixly.com/preview/2242/crumbella-react-theme-for-cookie-shops-bakers/" />
+  <link rel="canonical" href="https://themixly.com/preview/2367/bloomscape-react-nextjs-template-for-garden-services/" />
 </head>
 <body>
 
@@ -21,7 +21,7 @@
 <ul>
   <li>🚀 <a href="https://themixly.com/preview/2367/bloomscape-react-nextjs-template-for-garden-services/" target="_blank">Live Demo – BloomScape Template</a></li>
   <li>🛒 <a href="https://themixly.com/themes/bloomscape-react-nextjs-template-for-garden-services/" target="_blank">Buy Full Version on Themixly</a></li>
-  <li>📦 <a href="https://github.com/themixlyweb/react-garden-landscape-website-template" target="_blank">Download from GitHub (Free)</a></li>
+  <li>📦 <a href="https://github.com/themixlyweb/react-vite-bloomscape-theme" target="_blank">Download from GitHub (Free)</a></li>
 </ul>
 
 <h2>🧩 Feature Comparison: GitHub Free vs Themixly Pro</h2>
